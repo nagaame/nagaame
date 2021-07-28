@@ -1,5 +1,6 @@
 ## Hey, Im game backend. ❤️
 My name is nagaame. this is my github home page.
+I'm studying for something.
 
 ### Languages and Tools:
 
