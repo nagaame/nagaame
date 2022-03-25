@@ -22,11 +22,11 @@ Learn about the past and focus on the present.
 <p align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaame&langs_count=8&hide=html,css,vue,shell,dockerfile,tex,makefile,ruby,c%2B%2B&hide_title=false&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaame&langs_count=8&hide=html,css,vue,shell,dockerfile,tex,makefile,ruby,c%2B%2B&hide_title=false&bg_color=30,e9defa,fbfcdb&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagaame&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagaame&bg_color=30,e9defa,fbfcdb&theme=tokyonight" />
 </a>
 
 </p>
