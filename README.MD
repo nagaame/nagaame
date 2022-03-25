@@ -13,11 +13,11 @@ Learn about the past and focus on the present.
 ![Google Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-<p align="center">
+<!-- <p align="center">
 <a>
 <img align="center" src= "https://raw.githubusercontent.com/nagaame/images/master/img/fix-dir/2022/03/25/17-13-11-a0e437a83bcf9a6e78b5f92a74dbc339-IMG_4409-a2ff035f.JPG" />
 </a>
-</p>
+</p> -->
 
 <p align="center">
 
