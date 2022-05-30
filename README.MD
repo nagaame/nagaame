@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm nagaame(壳壳中的宇宙)</h1>
 <h3 align="center">I'm game backend. ❤️</h3>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nagaame&row=2&column=4&theme=flat&margin-w=15&margin-h=15&no-bg=true&no-frame=true#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nagaame&row=2&column=4&theme=flat&margin-w=5&margin-h=5&no-bg=true&no-frame=true#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nagaame&row=2&column=4&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nagaame&row=2&column=8&theme=onedark&margin-w=5&margin-h=5&no-bg=true&no-frame=true#gh-dark-mode-only|width=800px)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on Guangzhou **Game Backend**
 
