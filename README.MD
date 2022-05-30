@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm nagaame</h1>
+<h1 align="center">Hi 👋, I'm nagaame(壳壳中的宇宙)</h1>
 <h3 align="center">I'm game backend. ❤️</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagaame" alt="nagaame" /></a> </p>
