@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nagaame.nagaame)
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram)](https://t.me/sonny_kirby)
 <h1 align="center">Hi 👋, I'm nagaame(壳壳中的宇宙)</h1>
 <h3 align="center">I'm game backend. ❤️</h3>
 
