@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://twitter.com/kandanagaame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kandanagaame" height="30" width="40" /></a>
 <a href="https://instagram.com/kandanagaame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kandanagaame" height="30" width="40" /></a>
-<a href="https://m.okjike.com/users/731eaa1b-1217-40c9-899f-870baaa2efe9" target="blank"><img align="center" src="https://raw.githubusercontent.com/nagaame/images/master/img/fix-dir/2022/logo_jike.svg" alt="壳壳" height="30" width="40" /></a>
+<a href="https://m.okjike.com/users/731eaa1b-1217-40c9-899f-870baaa2efe9" target="blank"><img align="center" src="https://cdn.kanda.me/images/2022/06/10/0/ca4398590360bc6511614f699b650c6744dea833.svg" alt="壳壳" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
