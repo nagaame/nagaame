@@ -1,5 +1,4 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nagaame.nagaame)
-[![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram)](https://t.me/sonny_kirby)
 <h1 align="center">Hi 👋, I'm nagaame(壳壳中的宇宙)</h1>
 <h3 align="center">I'm game backend. ❤️</h3>
 
@@ -30,6 +29,7 @@
 <a href="https://twitter.com/kandanagaame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kandanagaame" height="30" width="40" /></a>
 <a href="https://instagram.com/kandanagaame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kandanagaame" height="30" width="40" /></a>
 <a href="https://m.okjike.com/users/731eaa1b-1217-40c9-899f-870baaa2efe9" target="blank"><img align="center" src="https://raw.githubusercontent.com/nagaame/nagaame/master/jike_logo.svg" alt="壳壳" height="30" width="40" /></a>
+<a href="https://t.me/sonny_kirby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="30" width="40" /></a>
 </p>
 
 ![github contrib light](https://raw.githubusercontent.com/nagaame/nagaame/master/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
