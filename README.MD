@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang.**
 
-- 📝 I regularly write articles on [https://kanda.me](https://kanda.me).
+- 📝 I regularly write articles on [https://kuokuo.io](https://kuokuo.io).
 
 - ⚡ **Learn about the past and focus on the present.**
 
