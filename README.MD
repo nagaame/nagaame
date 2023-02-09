@@ -1,11 +1,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nagaame.nagaame)
 <h1 align="center">Hi 👋, I'm nagaame(壳壳中的宇宙)</h1>
 
-- ❤️ I'm game backend. 
+- ❤️ I'm game backend on Guangzhou. 
 
-- 🔭 I’m currently working on Guangzhou **Game Backend.**
-
-- 🌱 I’m currently learning **Golang.**
+- 🌱 I’m currently learning **Golang, Python and Rust.**
 
 - 📝 I regularly write articles on [https://kuokuo.io](https://kuokuo.io).
 
