@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://kuokuo.io](https://kuokuo.io).
 
-- ⚡ **Learn about the past and focus on the present.**
+- ⚡ **Understand the past, Focus on the present.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
