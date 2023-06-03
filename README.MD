@@ -1,5 +1,5 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nagaame.nagaame)
-<h1 align="center">Hi 👋, I'm nagaame(壳壳中的宇宙)</h1>
+<h3>Hi 👋, I'm nagaame(壳壳中的宇宙)</h3>
 
 - ❤️ I'm game backend on Guangzhou. 
 
