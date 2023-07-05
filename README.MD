@@ -1,4 +1,12 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nagaame.nagaame)
+
+
+<div>
+<img style="float:right; margin: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaame&layout=compact" />
+
+</div>
+
+<div align="left">
 <h3>Hi 👋, I'm nagaame(壳壳中的宇宙)</h3>
 
 - ❤️ I'm game backend on Guangzhou. 
@@ -8,6 +16,8 @@
 - 📝 I regularly write articles on [https://kuokuo.io](https://kuokuo.io).
 
 - ⚡ **Understand the past, Focus on the present.**
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
