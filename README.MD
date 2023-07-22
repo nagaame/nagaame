@@ -2,7 +2,7 @@
 
 
 <div>
-<img style="float:right; margin: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaame&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaame&layout=compact" />
 
 </div>
 
