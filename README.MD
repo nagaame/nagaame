@@ -1,11 +1,4 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nagaame.nagaame)
-
-
-<div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaame&layout=compact" />
-
-</div>
-
 <div align="left">
 <h3>Hi 👋, I'm nagaame(壳壳中的宇宙)</h3>
 
