@@ -1,4 +1,4 @@
-<div align="left">
+<div align="conter">
 <h3>Hi 👋, I'm nagaame(壳壳中的宇宙)</h3>
 
 - ❤️ I'm game backend on Guangzhou. 
@@ -11,8 +11,8 @@
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="conter">Connect with me:</h3>
+<p align="conter">
 <a href="https://twitter.com/kandanagaame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kandanagaame" height="30" width="40" /></a>
 <a href="https://t.me/sonny_kirby" target="blank"><img align="center" src="https://raw.githubusercontent.com/nagaame/nagaame/master/telegram.svg" alt="telegram" height="30" width="40" /></a>
 </p>
