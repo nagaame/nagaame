@@ -1,13 +1,13 @@
 <div align="center">
 <h3>Hi 👋, I'm nagaame(壳壳中的宇宙)</h3>
 
-- ❤️ I'm game backend on Guangzhou. 
+ ❤️ I'm game backend on Guangzhou. 
 
-- 🌱 I’m currently learning **Golang, Python and Rust.**
+ 🌱 I’m currently learning **Golang, Python and Rust.**
 
-- 📝 I regularly write articles on [https://kuokuo.io](https://kuokuo.io).
+ 📝 I regularly write articles on [https://kuokuo.io](https://kuokuo.io).
 
-- ⚡ **Understand the past, Focus on the present.**
+ ⚡ **Understand the past, Focus on the present.**
 
 <h3>Connect with me:</h3>
 <p>
