@@ -15,6 +15,6 @@
 <a href="https://t.me/sonny_kirby" target="blank"><img align="center" src="https://raw.githubusercontent.com/nagaame/nagaame/master/telegram.svg" alt="telegram" height="30" width="40" /></a>
 </p>
 
-![nagaame](https://moe-counter.glitch.me/get/@nagaame.github.readme)
+![nagaame](https://counter.nagaame.workers.dev/get/@nagaame)
 
 </div>
