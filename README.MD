@@ -7,7 +7,7 @@
 
  📝 I regularly write articles on [https://kuokuo.io](https://kuokuo.io).
 
- 📇 **Have domain names for sale: [https://aibook.ai](https://aibook.ai)**
+ 📇 **There is a domain name for sale: [https://aibook.ai](https://aibook.ai)**
 
  ⚡ **Understand the past, Focus on the present.**
 
