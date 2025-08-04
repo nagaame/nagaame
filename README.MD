@@ -19,6 +19,6 @@
 
 ![nagaame](https://counter.nagaame.workers.dev/get/@nagaame)
 
-[![nagaame's GitHub stats](https://github-readme-stats-six-xi-n7eva9frm5.vercel.app/api?username=nagaame&count_private=true&show_icons=true&hide=contribs)](https://github.com/nagaame/github-readme-stats)
+[![nagaame's GitHub stats](https://github-readme-stats-six-xi-n7eva9frm5.vercel.app/api?username=nagaame&count_private=true&show_icons=true&hide=contribs&theme=tokyonight)](https://github.com/nagaame/github-readme-stats)
 
 </div>
