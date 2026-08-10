@@ -13,11 +13,11 @@
 
 <h3>Connect with me:</h3>
 <p>
-<a href="https://x.com/kekebababoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kandanagaame" height="30" width="40" /></a>
-<a href="https://t.me/laodadekele" target="blank"><img align="center" src="https://raw.githubusercontent.com/nagaame/nagaame/master/telegram.svg" alt="telegram" height="30" width="40" /></a>
-<a href="https://space.bilibili.com/1824747" target="blank"><img align="center" src="https://raw.githubusercontent.com/nagaame/nagaame/master/bilibili.svg" alt="bilibili" height="30" width="40" /></a>
-<a href="https://steamcommunity.com/id/nagaame/" target="blank"><img align="center" src="https://raw.githubusercontent.com/nagaame/nagaame/master/steam.svg" alt="steam" height="30" width="40" /></a>
-<a href="https://bangumi.tv/user/nagaame" target="blank"><img align="center" src="https://raw.githubusercontent.com/nagaame/nagaame/master/bangumi.png" alt="bangumi" height="30" width="40" /></a>
+<a href="https://x.com/kekebababoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kandanagaame" height="40" width="40" /></a>
+<a href="https://t.me/laodadekele" target="blank"><img align="center" src="https://raw.githubusercontent.com/nagaame/nagaame/master/telegram.svg" alt="telegram" height="40" width="40" /></a>
+<a href="https://space.bilibili.com/1824747" target="blank"><img align="center" src="https://raw.githubusercontent.com/nagaame/nagaame/master/bilibili.svg" alt="bilibili" height="40" width="40" /></a>
+<a href="https://steamcommunity.com/id/nagaame/" target="blank"><img align="center" src="https://raw.githubusercontent.com/nagaame/nagaame/master/steam.svg" alt="steam" height="40" width="40" /></a>
+<a href="https://bangumi.tv/user/nagaame" target="blank"><img align="center" src="https://raw.githubusercontent.com/nagaame/nagaame/master/bangumi.png" alt="bangumi" height="40" width="40" /></a>
 </p>
 
 ![nagaame](https://counter.nagaame.workers.dev/get/@nagaame)
