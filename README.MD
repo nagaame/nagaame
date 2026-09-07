@@ -26,7 +26,7 @@
     <img src="https://ghfind.com/api/card/mini/nagaame?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
   </picture>
 </a>
-
+![nagaame](https://counter.nagaame.workers.dev/get/@nagaame)
 <h3>🎮 Games I've Worked On</h3>
 
 > Backend Engineer · Game Server · 广州
@@ -37,5 +37,5 @@
 | **超界迷音** · 冲破声浪，直击异常，无轨下落式音乐游戏 | Rhythm / Adventure | [![TapTap](https://img.shields.io/badge/TapTap-Available-white?style=flat-square&logoColor=blue&labelColor=00D9C5&color=DeepSkyBlue)](https://www.taptap.cn/app/734196) [![iOS](https://img.shields.io/badge/iOS-App_Store-blue?logo=apple&style=flat-square)](https://apps.apple.com/us/app/overecho/id6748117205)| 2024 |
 | **Muse Dash II** · 高饱和美术+快节奏跑酷音游 | Rhythm| [![TapTap](https://img.shields.io/badge/TapTap-Developing-white?style=flat-square&logoColor=blue&labelColor=00D9C5&color=DeepSkyBlue)](https://www.taptap.cn/app/876252) [![Steam](https://img.shields.io/badge/Steam-Developing-1b2838?logo=steam&style=flat-square)](https://store.steampowered.com/app/4839390/Muse_Dash_2/) | 2026 |
 
-![nagaame](https://counter.nagaame.workers.dev/get/@nagaame)
+
 </div>
