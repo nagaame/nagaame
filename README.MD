@@ -22,8 +22,8 @@
 
 <a href="https://ghfind.com/u/nagaame?ref=badge">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/nagaame?theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/nagaame?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/nagaame?variant=radar&theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/nagaame?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
   </picture>
 </a>
 
